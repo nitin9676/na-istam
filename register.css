@@ -1,0 +1,36 @@
+body{
+    background-image: url(moon.jpg);
+}
+form{
+    border: solid 1px white;
+    width: 600px;
+    background-color: white;
+    margin-left: 200px;
+}
+h1{
+    text-align: center;
+    color: blue;
+    font-size: 50px;
+}
+label{
+    font-size: 30px;
+    color: green;
+    font-weight: bold;
+}
+input{
+    width: 300px;
+    height: 35px;
+    margin-bottom: 10px;
+}
+button{
+    height: 40px;
+    width: 150px;
+    background-color: red;
+    color: white;
+    font-size: 21px;
+    border-radius: 20px;
+}
+p{
+    color: white;
+    font-size: 20px;
+}
